@@ -5,4 +5,7 @@ The data used is from the Johns Hopkins University, which on 10th March 2023 cea
 
 The code will create a Dash application on the localhost "Dash is running on http://127.0.0.1:8050/"
 
-![Covid](https://github.com/ruairi-mcc/covid-visualisation/covid application.png?raw=True)
+![Covid](https://github.com/ruairi-mcc/covid-visualisation/blob/main/covid%20application.png?raw=True)
+
+
+![Covid](https://github.com/ruairi-mcc/covid-visualisation1/blob/main/covid%20application 1.png?raw=True)
