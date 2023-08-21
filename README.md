@@ -8,4 +8,7 @@ The code will create a Dash application on the localhost "Dash is running on htt
 ![Covid](https://github.com/ruairi-mcc/covid-visualisation/blob/main/covid%20application.png?raw=True)
 
 
-![Covid](https://github.com/ruairi-mcc/covid-visualisation1/blob/main/covid%20application 1.png?raw=True)
+You can then view the individual stats for any chosen country. 
+
+
+![Covid](https://github.com/ruairi-mcc/covid-visualisation/blob/main/covid%20application%201.png?raw=True)
